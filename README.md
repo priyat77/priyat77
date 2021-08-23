@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi There :octocat:
+
+<!-- 📫 How to reach me:-->
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyathangavel89)
 
 <!--
 **priyat77/priyat77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
